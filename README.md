@@ -3,7 +3,7 @@
 <h1 align="center">I'm Mahmoud Salhab</h1>
 <h3 align="center">A Machine Learning Engineer who's interested in NLP and Speech Recognition</h3>
 
-- 🔭 I’m currently the AI team Lead at **Xina AI**
+- 🔭 I’m currently work at Samsung Electronics - R&D as Speech recognition and NLP Engineer
 
 - 📫 You can reach me out on my e-mail **mahmoud@salhab.work**
 
